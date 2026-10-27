@@ -42,7 +42,7 @@ DELAY 1000
 REM start Microsoft Edge and open YouTube with Rick Astley - Never Gonna Give You Up.
 GUI r
 DELAY 1000
-STRING msedge.exe --new-window -kiosk https://www.youtube.com/watch?v=dQw4w9WgXcQ
+STRING msedge.exe --new-window -kiosk https://www.youtube.com/watch?v=f20h_sYOCGI&list=RDf20h_sYOCGI&index=1
 ENTER
 DELAY 2000
 STRING f
